@@ -17,7 +17,7 @@ class Main
 
         byte j = 10;
         byte k = 30;
-        int result = j*k;
+        int result = j*k; //type promotion; byte promoted to int since its past 127
 
         System.out.println(result);
 
