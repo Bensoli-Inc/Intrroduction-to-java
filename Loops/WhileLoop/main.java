@@ -1,7 +1,7 @@
 
-public class Main 
+public class Main
 {
-    public static void main(String[] a)
+    public static void mainn(String[] a)
     {   
         int i=0;
 
