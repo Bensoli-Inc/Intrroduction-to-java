@@ -1,6 +1,0 @@
-# Ignore all .class files
-*.class
-
-# Other files or directories I want to ignore
-node_modules/
-dist/
