@@ -3,6 +3,8 @@ public class Main
     public static void main(String[] a)
     {
         String name = new String("ben");
+        String city = "juja";
+        
         System.out.println(name);
 
         System.out.println("Hello " + name); //joining with another string
